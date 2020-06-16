@@ -1,4 +1,4 @@
-# Repository with the code used in the article Landslide Segmentation with Unet: Evaluating Different Sampling Methods and Patch Sizes
+ Repository with the code used in the paper Landslide Segmentation with Unet: Evaluating Different Sampling Methods and Patch Sizes
 
 
 ---
