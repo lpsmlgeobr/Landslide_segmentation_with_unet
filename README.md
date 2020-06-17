@@ -28,6 +28,41 @@ The notebooks used to train the networks can be uploaded to Google Drive and ope
 
 ### Training
 
+#### RapidEye
+
+1. Regular
+
+2. Random
+
+
+#### RapidEye + Augmentation
+
+1. Regular
+
+2. Random
+
+
+#### RapidEye + DEM
+
+1. Regular
+
+2. Random
+
+
+#### RapidEye + DEM + Augmentation
+
+1. Regular
+
+2. Random
+
+
+
+
+
+
+
+
+
 
 ### Evaluation
 
