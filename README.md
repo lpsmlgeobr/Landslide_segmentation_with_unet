@@ -12,7 +12,7 @@ The data used in this research is available upon request
 
 The dependecies.txt file contain all the libraries used in the preprocessing step. To install type 
 
-The notebooks used to train the networks can be uploaded to Google Drive and opened in the Google Colaboraty Virtual Environment. The comments in the notebook explains all the steps necessary to train the models.  
+The notebooks used to train the networks should be uploaded to Google Drive and opened in the Google Colaboraty Virtual Environment. 
 
 ---
 
