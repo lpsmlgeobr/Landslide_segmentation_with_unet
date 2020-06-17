@@ -28,8 +28,6 @@ The notebooks used to train the networks should be uploaded to Google Drive and 
 
 ## Training
 
-### Datasets:
-
 #### RapidEye
 
 1. [Regular Sampling](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/Training_regular_RapidEye.ipynb)
@@ -59,7 +57,7 @@ The notebooks used to train the networks should be uploaded to Google Drive and 
 
 
 
-
+---
 
 
 
@@ -67,7 +65,7 @@ The notebooks used to train the networks should be uploaded to Google Drive and 
 ### Evaluation
 
 
----
+
 
 ###  
 
