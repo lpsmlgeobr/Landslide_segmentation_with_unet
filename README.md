@@ -5,7 +5,7 @@
 
 ### Data
 
-The data used in this research is available upon request  
+The data used in this research and the weights of the best models are available and can be requested by sending an email to : lpsoares@usp.br
 
 
 ### Dependencies
