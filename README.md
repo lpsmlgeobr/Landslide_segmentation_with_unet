@@ -22,9 +22,9 @@ The notebooks used to train the networks should be uploaded to Google Drive and 
 
 0. [Band Stacking](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/0_%20BandStacking.ipynb)
 
-1. [Binary Maks] (https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/1_generate_binary_mask.ipynb)
+1. [Binary Maks](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/1_generate_binary_mask.ipynb)
 
-2. [Image Sampling] (https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/2_Sampling_images.ipynb)
+2. [Image Sampling](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/2_Sampling_images.ipynb)
 
 3. []
 
