@@ -21,7 +21,7 @@ The notebooks used to train and evaluate the networks should be uploaded to Goog
 
 1. [Band Stacking](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/0_%20BandStacking.ipynb)
 
-2. [Binary Maks](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/1_generate_binary_mask.ipynb)
+2. [Binary Masks](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/1_generate_binary_mask.ipynb)
 
 3. [Image Sampling](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/2_Sampling_images.ipynb)
 
