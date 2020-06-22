@@ -8,7 +8,7 @@ The data used in this research and the best models' weights are available and ca
 
 ### Dependencies
 
-The dependecies.txt file contains all the libraries used in the preprocessing step. To install, follow the steps below:
+The requirements.txt file contains all the libraries used in the preprocessing step. To install, follow the steps below:
 
 1. cd to the directory where requirements.txt is located.
 2. activate your virtualenv.
