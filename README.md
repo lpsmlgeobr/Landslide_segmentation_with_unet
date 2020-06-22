@@ -17,9 +17,7 @@ The dependecies.txt file contains all the libraries used in the preprocessing st
 The notebooks used to train and evaluate the networks should be uploaded to Google Drive and opened in the Google Colaboraty Virtual Environment. 
 
 
-## Overview
-
-### Preprocessing
+## Preprocessing
 
 1. [Band Stacking](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/0_%20BandStacking.ipynb)
 
