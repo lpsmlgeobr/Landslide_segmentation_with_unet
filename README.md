@@ -1,6 +1,5 @@
  Repository with the code used in the paper Landslide Segmentation with Unet: Evaluating Different Sampling Methods and Patch Sizes
 
----
 
 ### Data
 
@@ -17,7 +16,6 @@ The dependecies.txt file contains all the libraries used in the preprocessing st
 
 The notebooks used to train and evaluate the networks should be uploaded to Google Drive and opened in the Google Colaboraty Virtual Environment. 
 
----
 
 ## Overview
 
@@ -61,7 +59,6 @@ The notebooks used to train and evaluate the networks should be uploaded to Goog
 
 2. [Random Sampling](https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet/blob/master/notebooks/Training_random_RapidEye%2BDEM%2BAugmentation.ipynb)
 
----
 
 ## Results
 
